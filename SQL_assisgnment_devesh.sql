@@ -1,5 +1,5 @@
-Create database jalaacedmy;
-use jalaacedmy;
+Create database jalaacademy;
+use jalaacademy;
 create table salespeople(
 snum int primary key,
 sname varchar(30),
