@@ -1,6 +1,6 @@
 #1. Write a program to print your name.  
-# a=("My name is Devesh")
-# print (a)
+a=("My name is Devesh")
+print (a)
 
 #2. Write a program for a Single line comment and multi-line comments 
 # For a single line comment use "#" at the beginning of the line.
@@ -39,4 +39,5 @@ def print_variables():
 print_variables()
 
 # Print the global variable
+
 print(f"Global x: {x}")
